@@ -1,2 +1,2 @@
 # umapathi-D
-this is my Git first repository
+this is my first Git repository
